@@ -1,5 +1,5 @@
 <!-- HEADER IMAGE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:203A43&height=250&section=header&text=Salem%20Developer&fontSize=40&fontColor=ffffff" alt="Header Image">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:203A43&height=250&section=header&text=Abdulrahman Ibrahim%20Developer&fontSize=40&fontColor=ffffff" alt="Header Image">
 
 <!-- SOCIAL BADGES (NO LINKS) -->
 <p>
